@@ -1,0 +1,4 @@
+id,name,email,country,gender,feature,agreecond
+0,uday,uday11@gmail.com,USA,Male,TRUE,TRUE
+100,kiran,uday222@email.com,India,Male,FALSE,TRUE
+269
